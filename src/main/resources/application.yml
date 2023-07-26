@@ -1,0 +1,6 @@
+myconfig:
+  chatGptKey: [
+    sk-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,
+    sk-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb,
+    sk-cccccccccccccccccccccccccccccccccccccccc,
+  ]
